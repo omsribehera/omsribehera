@@ -91,7 +91,7 @@ A multi-model forecasting platform featuring Transformer-based time-series predi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=12" alt="Programming Languages and Frameworks"/>
+<img src="https://skillicons.dev/icons?i=c,python,fastapi,tailwind&theme=dark&perline=12" alt="Programming Languages and Frameworks"/>
 
 <br/><br/>
 
